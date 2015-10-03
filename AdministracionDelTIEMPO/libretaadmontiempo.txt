@@ -1,0 +1,18 @@
+1-.Datos de la materia
+2-.Cuadro de saber saberhacer,haser
+3-.-analisis de administracion del tiempo
+4-.Resumen de administracion del tiempo(optativo)
+5-.temea 1administracion del tiempo
+6-.tarea agenda
+7-.tarea agenda
+8-.lista de enemigos
+9-.soluciones
+10-.analisis de los puntos del 4 al 10
+11-.analisis7 havitos
+12-.tema matriz de covey
+13-.primera matriz de covey
+14-.matris de covey de toda la semana
+15-.test de analisis del tiempo
+16-.ejersicio 3 de la diapositiva
+17-.lista de las 5 cosas quitan el tiempo
+
